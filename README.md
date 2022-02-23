@@ -1,7 +1,5 @@
 # photo2beeple
-CycleGAN to convert photographs to Beeple's Everydays and vice versa  
-
-Novel dataset [photo2beeple](https://www.kaggle.com/petruso/photo2beeple) made available at Kaggle.    
+CycleGAN to convert photographs to Beeple's Everydays and vice versa    
 
 CycleGAN implementation references:  
 
